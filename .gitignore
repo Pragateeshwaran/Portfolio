@@ -29,16 +29,15 @@
 # .vscode
 
 
+
 # Ignore everything
 *
 
-# But not these files/folders:
+# But not this file itself
 !.gitignore
-!dist/
 
-# Inside build, allow all files
-!dist/**
+# Don't ignore the build/dist folder and its contents
+!build/
+!build/dist/
+!build/dist/**
 
-# Optional: if you want to ignore specific things inside build, you can do that below
-# For example, to ignore build/node_modules
-# build/node_modules/
