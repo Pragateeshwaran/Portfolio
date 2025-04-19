@@ -34,10 +34,10 @@
 
 # But not these files/folders:
 !.gitignore
-!build/
+!dist/
 
 # Inside build, allow all files
-!build/**
+!dist/**
 
 # Optional: if you want to ignore specific things inside build, you can do that below
 # For example, to ignore build/node_modules
