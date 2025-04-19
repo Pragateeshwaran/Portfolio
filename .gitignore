@@ -1,29 +1,44 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# # Logs
+# logs
+# *.log
+# npm-debug.log*
+# yarn-debug.log*
+# yarn-error.log*
+# pnpm-debug.log*
+# lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# node_modules
+# dist
+# dist-ssr
+# *.local
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+# # Editor directories and files
+# .vscode/*
+# !.vscode/extensions.json
+# .idea
+# .DS_Store
+# *.suo
+# *.ntvs*
+# *.njsproj
+# *.sln
+# *.sw?
 
-.env
+# .env
 
-# vscode
-.vscode
+# # vscode
+# .vscode
+
+
+# Ignore everything
+*
+
+# But not these files/folders:
+!.gitignore
+!build/
+
+# Inside build, allow all files
+!build/**
+
+# Optional: if you want to ignore specific things inside build, you can do that below
+# For example, to ignore build/node_modules
+# build/node_modules/
