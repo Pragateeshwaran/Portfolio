@@ -7,27 +7,27 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import Namasivaayam from "./TopTestimonials/Namasivaayam.png";
-import nithish from "./TopTestimonials/nithish.png";
-import nawfal from "./TopTestimonials/nawfal.png";
-import sagar from "./TopTestimonials/sagar.png";
+import Namasivaayam from "./Namasivaayam.png";
+import nithish from "./nithish.png";
+import nawfal from "./nawfal.png";
+import sagar from "./sagar.png";
 
-import cuda from "./tech/cuda.png";
-import docker from "./tech/docker.png";
-import git from "./tech/git.png";
-import huggingface from "./tech/huggingface.png";
-import keras from "./tech/keras.png";
-import langchain from "./tech/langchain.png";
-import mongodb from "./tech/mongodb.png";
-import onnx from "./tech/onnx.png";
-import Tensorflow from "./tech/Tensorflow.png";
-import torch from "./tech/torch.png";
-import neo4j from "./tech/Neo4j.png"
-import opencv from "./tech/opencv.png"
+import cuda from "./cuda.png";
+import docker from "./docker.png";
+import git from "./git.png";
+import huggingface from "./huggingface.png";
+import keras from "./keras.png";
+import langchain from "./langchain.png";
+import mongodb from "./mongodb.png";
+import onnx from "./onnx.png";
+import Tensorflow from "./tensorflow.png";
+import torch from "./torch.png";
+import neo4j from "./Neo4j.png";
+import opencv from "./opencv.png";
  
-import mepco from "./education/mepco.png";
-import school from "./education/school.png";
-import xplore from "./education/xplore.png";
+import mepco from "./mepco.png";
+import school from "./school.png";
+import xplore from "./xplore.png";
 
  
 export {
