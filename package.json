@@ -9,6 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
+    "serve": "serve -s build",
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
@@ -23,6 +24,7 @@
     "react-parallax-tilt": "^1.7.291",
     "react-router-dom": "^6.30.0",
     "react-vertical-timeline-component": "^3.6.0",
+    "serve": "^14.2.4",
     "three": "^0.175.0"
   },
   "devDependencies": {

@@ -62,70 +62,70 @@ export const navLinks = [
 const services = [
   {
     title: "Deep Leanring Researcher",
-    icon: web,
+    icon: "/assets/web.png",
   },
   {
     title: "GenAi Developer",
-    icon: mobile,
+    icon: "/assets/mobile.png",
   },
   {
     title: "Backend Developer",
-    icon: backend,
+    icon: "/assets/backend.png",
   },
   {
     title: "mentor",
-    icon: creator,
+    icon: "/assets/creator.png",
   },
 ];
 
 const technologies = [
   {
     name: "Torch",
-    icon: torch,
+    icon: "/assets/torch.png",
   },
   {
     name: "Tensorflow",
-    icon: Tensorflow,
+    icon: "/assets/tensorflow.png",
   },
   {
     name: "Keras",
-    icon: keras,
+    icon: "/assets/keras.png",
   },
   {
     name: "Langchain",
-    icon: langchain,
+    icon: "/assets/langchain.png",
   },
   {
     name: "HuggingFace",
-    icon: huggingface,
+    icon: "/assets/huggingface.png",
   },  
   {
     name: "OpenCV",
-    icon: opencv,
+    icon: "/assets/opencv.png",
   },
   {
     name: "ONNX",
-    icon: onnx,
+    icon: "/assets/onnx.png",
   },
   {
     name: "Neo4j",
-    icon: neo4j,
+    icon: "/assets/Neo4j.png",
   },
   {
     name: "MongoDB",
-    icon: mongodb,
+    icon: "/assets/mongodb.png",
   },
   {
     name: "Git",
-    icon: git,
+    icon: "/assets/git.png",
   },
   {
     name: "Cuda",
-    icon: cuda,
+    icon: "/assets/cuda.png",
   },
   {
     name: "Docker",
-    icon: docker,
+    icon: "/assets/docker.png",
   },
 
 ];
@@ -134,7 +134,7 @@ const Educations = [
   {
     title: "B.Tech Artificial Intelligence and Data Science",
     company_name: "MEPCO SCHLENK ENGINEERING COLLEGE",
-    icon: mepco,
+    icon: "/assets/mepco.png",
     iconBg: "#383E56",
     date: "Oct 2022 - Apr 2026",
     points: [
@@ -146,9 +146,9 @@ const Educations = [
     
   },
   {
-    title: "Ai/ML diploma course",
+    title: "/Ai/ML diploma course",
     company_name: "Xplore IT Corp",
-    icon: xplore,
+    icon: "/assets/xplore.png",
     iconBg: "#E6DEDD",
     date: "June 2022 - Oct 2022",
     points: [
@@ -161,7 +161,7 @@ const Educations = [
   {
     title: "School",
     company_name: "K.KAMARAJAR MATRICULATION HIGHER SECONDARY SCHOOL",
-    icon: school,
+    icon: "/assets/school.png",
     iconBg: "#383E56",
     date: "Nov 2008 - March 2022",
     points: [
@@ -180,7 +180,7 @@ const testimonials = [
     name: "Namasivaayam",
     designation: "ML Engineer",
     company: "Mr. Cooper",
-    image: Namasivaayam,
+    image: "/assets/Namasivaayam.png",
   },
   {
     testimonial:
@@ -188,7 +188,7 @@ const testimonials = [
     name: "Nithish",
     designation: "Member",
     company: "Computer Society of India",
-    image: nithish,
+    image: "/assets/nithish.png",
   },
   {
     testimonial:
@@ -196,7 +196,7 @@ const testimonials = [
     name: "Nawfal Arsath",
     designation: "UI/UX",
     company: "Freelancer",
-    image: nawfal,
+    image: "/assets/nawfal.png",
   },
   {
     testimonial:
@@ -204,7 +204,7 @@ const testimonials = [
     name: "Karnas Sagar",
     designation: "Intern",
     company: "Cogniwide",
-    image: sagar,
+    image: "/assets/sagar.png",
   },
 ];
 
