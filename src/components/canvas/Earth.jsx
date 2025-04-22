@@ -1,6 +1,4 @@
-git add .
-git commit -m "fix: flatten asset structure and update all asset paths for deployment"
-git push -u origin dep-assests-path-fiximport React, { Suspense } from "react";
+import React, { Suspense } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
