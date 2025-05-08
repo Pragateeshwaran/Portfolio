@@ -18,7 +18,7 @@ const Navbar = () => {
             window.scrollTo({ top: 0, behavior: "smooth" });
           }}
         >
-          <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
+          {/* <img src={logo} alt="logo" className="w-9 h-9 object-contain" /> */}
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Pragateesh &nbsp;
             <span className='sm:block hidden'> | Student</span>
